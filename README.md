@@ -11,12 +11,15 @@
   <h1>French cybersecurity student</h1>
   
   <a href="https://linkedin.com/in/marc-lecointre" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-lecointre" height="50" width="50" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-lecointre" height="40" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:lcram33@pm.me" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/893/893257.png" alt="marc-lecointre" width="70" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/893/893257.png" alt="marc-lecointre" width="60" />
   </a>
 </div>
+
+<h3>
 
 - 🔐 Interested in cryptography
 
@@ -25,30 +28,36 @@
 - 🔭 I’m currently working on [compared_copy](https://github.com/Lcram33/compared_copy)
 
 - 📝 I sometimes write articles on [cybersecurity](https://leblogcyber311724878.wordpress.com/)
+</h3>
+
+<br>
 
 <h3 align="left">Languages and Tools that I master & daily use :</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" />
   </a>
 </p>
 
 <h3 align="left">Languages and Tools that I learnt a bit about :</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969316.png" alt="windows" width="60" height="60"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969316.png" alt="windows" width="45" height="45"/>
   </a>
 </p>
 
@@ -57,14 +66,17 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="60" height="60" /> </a>
+      alt="javascript" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="60" height="60" />
+      alt="nodejs" width="50" height="50" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="60" height="60" />
+      alt="react" width="50" height="50" />
   </a>
 </p>
 
