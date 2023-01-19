@@ -25,7 +25,7 @@
 
 - 🧐 Interested in OSINT
 
-- 🔭 I’m currently working on [compared_copy](https://github.com/Lcram33/compared_copy)
+- 🔭 I’m currently working on [collatz-cipher](https://github.com/Lcram33/collatz-cipher)
 
 - 📝 I sometimes write articles on [cybersecurity](https://leblogcyber311724878.wordpress.com/)
 </h3>
