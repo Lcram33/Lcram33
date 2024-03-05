@@ -1,7 +1,6 @@
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://i.pinimg.com/originals/a7/48/f9/a748f9b468b02aa3861b0678fe812dcc.gif"
+       alt="gif" /></a>
   
   <img src="https://avatars.githubusercontent.com/u/43505358?v=4"
        width="150" 
@@ -134,4 +133,4 @@
 -----
 Credits: [1999AZZAR](https://github.com/1999AZZAR), [readme generator](https://rahuldkjain.github.io/gh-profile-readme-generator/), <a href="https://www.flaticon.com/free-icons/logo" title="logo icons">Logo icons created by Freepik - Flaticon</a>, <a href="https://www.flaticon.com/free-icons/email" title="email icons">Email icons created by Pixel perfect - Flaticon</a>, <a href="https://www.flaticon.com/free-icons/java" title="java icons">Java icons created by Freepik - Flaticon</a>
 
-<i>Last Edited on : 25/04/2023</i>
+<i>Last Edited on : 05/03/2024</i>
