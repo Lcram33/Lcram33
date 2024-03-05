@@ -1,6 +1,5 @@
 <div align="center">
-  <img  src="https://i.pinimg.com/originals/a7/48/f9/a748f9b468b02aa3861b0678fe812dcc.gif"
-       alt="gif" /></a>
+  <img  src="https://i.pinimg.com/originals/a7/48/f9/a748f9b468b02aa3861b0678fe812dcc.gif" alt="gif" width="100" /></a>
   
   <img src="https://avatars.githubusercontent.com/u/43505358?v=4"
        width="150" 
@@ -10,7 +9,7 @@
   <h1>French cybersecurity student</h1>
   
   <a href="https://linkedin.com/in/marc-lecointre" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-lecointre" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-lecointre" height="45" width="45" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:lcram33@pm.me" target="blank">
