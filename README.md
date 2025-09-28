@@ -1,15 +1,47 @@
 <div align="center">
   <img src="img/user.png" alt="user"
        width="150" 
-       height="150"
-       />
+       height="150" />
   
-  <h1>Lcram33</h1>
+  <h1>Lcram33 / Marc L.</h1>
 </div>
 
-<h2 align="left">Languages, Tools</h2>
+<div align="center">
 
-<h3 align="left">Favorite & often used</h3>
+Ingénieur en sécurité informatique / Cybersecurity engineer 🛡️
+
+| <a href="https://www.linkedin.com/in/marc-l1/"><img src="img/linkedin.svg" width=75 /></a> | <a href="https://leblogcyber.fr/"><img src="img/blog.png" width=100 /></a> |
+|:--:|:--:|
+| LK | Blog |
+
+</div>
+
+## CTFs
+
+<p align="left"> 
+  <a href="https://github.com/Lcram33/404CTF-2025">
+    <img src="img/404_2025.png" width=125 />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Lcram33/Shutlock-CTF-2025" >
+    <img src="img/shutlock_2025.png" width=125 />
+  </a>
+</p>
+
+## Collections d'outils
+
+| <a href="https://start.me/p/NQxPAG/privacy-center"><img src="img/startme.png" width=75 /></a> | <a href="https://start.me/p/mw5lOo/osint-toolbox"><img src="img/startme.png" width=75 /></a> |
+|:--:|:--:|
+| Privacy center 👻 | OSINT ToolBox 🔨 |
+
+## Projets personnels & académiques
+
+| <a href="https://github.com/Lcram33/CTF-VM"><img src="img/CTF_VM.png" width=100 /></a> | <a href="https://github.com/B1gbr0the4/GuacamoleDocker"><img src="img/bastion.jpg" width=100 /></a> |
+|:--:|:--:|
+| VM CTF | PoC docker bastion guacamole |
+
+## Coding
+
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="img/python.svg" alt="python" width="75" height="75"/>
@@ -23,30 +55,7 @@
   </a>
 </p>
 
-<h3 align="left">I learnt a bit about</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="img/c-original.svg" alt="c" width="75" height="75"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.java.com/fr/" target="_blank" rel="noreferrer">
-    <img src="img/java.png" alt="java" width="75" height="75"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="img/git.svg" alt="git" width="75" height="75"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="img/mysql.svg" alt="mysql" width="90" height="90"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img src="img/LaTeX.svg" alt="LaTeX" width="110" height="55"/>
-  </a>
-</p>
-
-<h2 align="left">Github stuff</h2>
+## Github stuff
 
 <p>
   <img align="center"
@@ -67,8 +76,6 @@
 
 -----
 Credits:
-* [readme generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 * <a href="https://www.flaticon.com/free-icons/logo" title="logo icons">Logo icons created by Freepik - Flaticon</a>
-* <a href="https://www.flaticon.com/free-icons/java" title="java icons">Java icons created by Freepik - Flaticon</a>
 * [PowerShell logo](https://debugandrelease.blogspot.com/2018/11/deleting-old-files-with-powershell.html)
 * <a target="_blank" href="https://icons8.com/icon/TMZAZMLFozcL/bash">Bash</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
