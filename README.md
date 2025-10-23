@@ -19,12 +19,16 @@ Ingénieur en sécurité informatique / Cybersecurity engineer 🛡️
 ## CTFs
 
 <p align="left"> 
-  <a href="https://github.com/Lcram33/404CTF-2025">
-    <img src="img/404_2025.png" width=140 />
+  <a href="https://github.com/Lcram33/ECW-CTF-2025" >
+    <img src="img/ECW_2025.png" height=60 />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Lcram33/Shutlock-CTF-2025" >
-    <img src="img/shutlock_2025.png" width=140 />
+    <img src="img/shutlock_2025.png" width=100 />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Lcram33/404CTF-2025">
+    <img src="img/404_2025.png" width=100 />
   </a>
 </p>
 
