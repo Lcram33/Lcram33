@@ -8,13 +8,21 @@
 
 <div align="center">
 
-Ingénieur en sécurité informatique / Cybersecurity engineer 🛡️
+🛡️ Ingénieur en sécurité informatique / Cybersecurity engineer
+
+🔏 [PGP](https://pastebin.com/WVesUUz1) : 1B06 793C 55AB B2E8 CA88 30C3 8DE2 D350 4BF5 3AAD
 
 | <a href="https://www.linkedin.com/in/marc-l1/"><img src="img/linkedin.svg" width=75 /></a> | <a href="https://leblogcyber.fr/"><img src="img/blog.png" width=100 /></a> |
 |:--:|:--:|
 | LK | Blog |
 
 </div>
+
+## Collections d'outils
+
+| <a href="https://start.me/p/NQxPAG/privacy-center"><img src="img/startme.png" width=50 /></a> | <a href="https://start.me/p/mw5lOo/osint-toolbox"><img src="img/startme.png" width=50 /></a> |
+|:--:|:--:|
+| Privacy center 👻 | OSINT ToolBox 🔨 |
 
 ## CTFs
 
@@ -31,18 +39,6 @@ Ingénieur en sécurité informatique / Cybersecurity engineer 🛡️
     <img src="img/404_2025.png" width=100 />
   </a>
 </p>
-
-## Collections d'outils
-
-| <a href="https://start.me/p/NQxPAG/privacy-center"><img src="img/startme.png" width=50 /></a> | <a href="https://start.me/p/mw5lOo/osint-toolbox"><img src="img/startme.png" width=50 /></a> |
-|:--:|:--:|
-| Privacy center 👻 | OSINT ToolBox 🔨 |
-
-## Projets personnels & académiques
-
-| <a href="https://github.com/Lcram33/CTF-VM-public"><img src="img/CTF_VM.png" width=110 /></a> | <a href="https://github.com/B1gbr0the4/GuacamoleDocker"><img src="img/bastion.jpg" width=100 /></a> |
-|:--:|:--:|
-| VM CTF | PoC docker bastion guacamole |
 
 ## Homelab
 
@@ -78,7 +74,13 @@ Ingénieur en sécurité informatique / Cybersecurity engineer 🛡️
   </a>
 </p>
 
-## Coding
+## Projets personnels & académiques
+
+| <a href="https://github.com/Lcram33/CTF-VM-public"><img src="img/CTF_VM.png" width=110 /></a> | <a href="https://github.com/B1gbr0the4/GuacamoleDocker"><img src="img/bastion.jpg" width=100 /></a> |
+|:--:|:--:|
+| VM CTF | PoC docker bastion guacamole |
+
+## Langages de programmation & scripting
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
