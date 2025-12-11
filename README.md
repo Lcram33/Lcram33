@@ -12,7 +12,7 @@
 
 🔏 [PGP](https://pastebin.com/WVesUUz1) : 1B06 793C 55AB B2E8 CA88 30C3 8DE2 D350 4BF5 3AAD
 
-| <a href="https://www.linkedin.com/in/marc-l1/"><img src="img/linkedin.svg" width=75 /></a> | <a href="https://leblogcyber.fr/"><img src="img/blog.png" width=100 /></a> |
+| <a href="https://www.linkedin.com/in/marc-l1/"><img src="img/linkedin.svg" width=45 /></a> | <a href="https://leblogcyber.fr/"><img src="img/blog.png" width=50 /></a> |
 |:--:|:--:|
 | LK | Blog |
 
@@ -20,7 +20,7 @@
 
 ## Collections d'outils
 
-| <a href="https://start.me/p/NQxPAG/privacy-center"><img src="img/startme.png" width=50 /></a> | <a href="https://start.me/p/mw5lOo/osint-toolbox"><img src="img/startme.png" width=50 /></a> |
+| <a href="https://start.me/p/NQxPAG/privacy-center"><img src="img/startme.png" width=45 /></a> | <a href="https://start.me/p/mw5lOo/osint-toolbox"><img src="img/startme.png" width=45 /></a> |
 |:--:|:--:|
 | Privacy center 👻 | OSINT ToolBox 🔨 |
 
@@ -28,24 +28,26 @@
 
 <p align="left"> 
   <a href="https://www.securityblue.team/certifications/blue-team-level-1" >
-    <img src="img/SBT-BTL1.png" height=100 />
+    <img src="img/SBT-BTL1.png" height=110 />
   </a>
   &nbsp;&nbsp;
 </p>
 
 ## CTFs
 
+### 2025
+
 <p align="left"> 
   <a href="https://github.com/Lcram33/ECW-CTF-2025" >
-    <img src="img/ECW_2025.png" height=60 />
+    <img src="img/ECW_2025.png" height=70 />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Lcram33/Shutlock-CTF-2025" >
-    <img src="img/shutlock_2025.png" width=100 />
+    <img src="img/shutlock_2025.png" width=105 />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Lcram33/404CTF-2025">
-    <img src="img/404_2025.png" width=100 />
+    <img src="img/404_2025.png" width=105 />
   </a>
 </p>
 
@@ -89,22 +91,22 @@
 |:--:|:--:|
 | VM CTF | PoC docker bastion guacamole |
 
-## Langages de programmation & scripting
+## Programmation & scripting
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="img/python.svg" alt="python" width="75" height="75"/>
+    <img src="img/python.svg" alt="python" width="55" />
   </a>
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
-    <img src="img/powershell.png" alt="powershell" width="75" height="75" />
+    <img src="img/powershell.png" alt="powershell" width="55" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" target="_blank" rel="noreferrer">
-    <img src="img/bash.png" alt="bash" width="75" height="75"/>
+    <img src="img/bash.png" alt="bash" width="55" />
   </a>
 </p>
 
-## Github stuff
+## Stats GitHub
 
 <details>
 <summary>Cliquer pour développer</summary>
