@@ -24,6 +24,15 @@
 |:--:|:--:|
 | Privacy center 👻 | OSINT ToolBox 🔨 |
 
+## Certifications
+
+<p align="left"> 
+  <a href="https://www.securityblue.team/certifications/blue-team-level-1" >
+    <img src="img/SBT-BTL1.png" height=100 />
+  </a>
+  &nbsp;&nbsp;
+</p>
+
 ## CTFs
 
 <p align="left"> 
