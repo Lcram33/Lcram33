@@ -30,7 +30,10 @@
   <a href="https://www.securityblue.team/certifications/blue-team-level-1" >
     <img src="img/SBT-BTL1.png" height=110 />
   </a>
-  &nbsp;&nbsp;
+  <a href="https://mooc.osintfr.com/" >
+    <img src="img/1er_MOOC_OSINT-FR_-_Quest-ce_que_lOSINT__.png" height=120 />
+  </a>
+  <!-- &nbsp;&nbsp; -->
 </p>
 
 ## CTFs
