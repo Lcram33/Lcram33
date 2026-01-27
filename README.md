@@ -24,16 +24,20 @@
 |:--:|:--:|
 | Privacy center 👻 | OSINT ToolBox 🔨 |
 
-## Certifications
+## Certifications & MOOCs
 
 <p align="left"> 
   <a href="https://www.securityblue.team/certifications/blue-team-level-1" >
-    <img src="img/SBT-BTL1.png" height=110 />
+    <img src="img/BTL1.png" height=120 />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://mooc.osintfr.com/" >
-    <img src="img/1er_MOOC_OSINT-FR_-_Quest-ce_que_lOSINT__.png" height=120 />
+    <img src="img/OSINT-FR.png" height=120 />
   </a>
-  <!-- &nbsp;&nbsp; -->
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://lms.club-ebios.org/" >
+    <img src="img/ebios-rm.png" height=110 />
+  </a>
 </p>
 
 ## CTFs
