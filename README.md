@@ -42,6 +42,14 @@
 
 ## CTFs
 
+### 2026
+
+<p align="left"> 
+  <a href="https://github.com/Lcram33/LA-CTF-2026" >
+    <img src="img/LA_CTF.gif" height=80 />
+  </a>
+</p>
+
 ### 2025
 
 <p align="left"> 
