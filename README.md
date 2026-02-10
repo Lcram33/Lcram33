@@ -18,19 +18,17 @@
 
 </div>
 
-## Collections d'outils
-
-| <a href="https://start.me/p/NQxPAG/privacy-center"><img src="img/startme.png" width=45 /></a> | <a href="https://start.me/p/mw5lOo/osint-toolbox"><img src="img/startme.png" width=45 /></a> |
-|:--:|:--:|
-| Privacy center 👻 | OSINT ToolBox 🔨 |
-
-## Certifications & MOOCs
+## Certifications
 
 <p align="left"> 
   <a href="https://www.securityblue.team/certifications/blue-team-level-1" >
     <img src="img/BTL1.png" height=120 />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+## MOOCs
+
+<p align="left"> 
   <a href="https://mooc.osintfr.com/" >
     <img src="img/OSINT-FR.png" height=120 />
   </a>
@@ -39,6 +37,12 @@
     <img src="img/ebios-rm.png" height=110 />
   </a>
 </p>
+
+## Collections d'outils
+
+| <a href="https://start.me/p/NQxPAG/privacy-center"><img src="img/startme.png" width=45 /></a> | <a href="https://start.me/p/mw5lOo/osint-toolbox"><img src="img/startme.png" width=45 /></a> |
+|:--:|:--:|
+| Privacy center 👻 | OSINT ToolBox 🔨 |
 
 ## CTFs
 
